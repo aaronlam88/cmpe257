@@ -1,0 +1,177 @@
+A     [accuracy score]    : 0.8633
+A     [mean squared error]: 0.7369
+
+AAL   [accuracy score]    : 0.8580
+AAL   [mean squared error]: 0.8162
+
+AAP   [accuracy score]    : 0.9360
+AAP   [mean squared error]: 2.0610
+
+AAPL  [accuracy score]    : 0.9211
+AAPL  [mean squared error]: 2.8240
+
+ABBV  [accuracy score]    : 0.8814
+ABBV  [mean squared error]: 1.3455
+
+ABC   [accuracy score]    : 0.7062
+ABC   [mean squared error]: 1.2842
+
+ABT   [accuracy score]    : 0.9218
+ABT   [mean squared error]: 0.7210
+
+ACN   [accuracy score]    : 0.8645
+ACN   [mean squared error]: 1.3784
+
+ADBE  [accuracy score]    : 0.7140
+ADBE  [mean squared error]: 3.9672
+
+ADI   [accuracy score]    : 0.9280
+ADI   [mean squared error]: 1.1789
+
+ADM   [accuracy score]    : 0.8275
+ADM   [mean squared error]: 0.4380
+
+ADP   [accuracy score]    : 0.8282
+ADP   [mean squared error]: 1.3283
+
+ADS   [accuracy score]    : 0.9037
+ADS   [mean squared error]: 3.0424
+
+ADSK  [accuracy score]    : 0.8489
+ADSK  [mean squared error]: 2.4574
+
+AEE   [accuracy score]    : 0.8527
+AEE   [mean squared error]: 0.5699
+
+AEP   [accuracy score]    : 0.7277
+AEP   [mean squared error]: 0.7036
+
+AES   [accuracy score]    : 0.8010
+AES   [mean squared error]: 0.2921
+
+AET   [accuracy score]    : 0.9376
+AET   [mean squared error]: 1.1596
+
+AFL   [accuracy score]    : 0.8986
+AFL   [mean squared error]: 0.3912
+
+AGN   [accuracy score]    : 0.9124
+AGN   [mean squared error]: 2.0035
+
+AIG   [accuracy score]    : 0.9572
+AIG   [mean squared error]: 0.6625
+
+AIV   [accuracy score]    : 0.7503
+AIV   [mean squared error]: 0.4074
+
+AIZ   [accuracy score]    : 0.7934
+AIZ   [mean squared error]: 1.2113
+
+AJG   [accuracy score]    : 0.9224
+AJG   [mean squared error]: 0.5671
+
+AKAM  [accuracy score]    : 0.8647
+AKAM  [mean squared error]: 1.1493
+
+ALB   [accuracy score]    : 0.8062
+ALB   [mean squared error]: 1.4182
+
+ALGN  [accuracy score]    : 0.9613
+ALGN  [mean squared error]: 6.6234
+
+ALK   [accuracy score]    : 0.7611
+ALK   [mean squared error]: 1.0058
+
+ALL   [accuracy score]    : 0.8334
+ALL   [mean squared error]: 1.0253
+
+ALLE  [accuracy score]    : 0.9206
+ALLE  [mean squared error]: 0.9306
+
+ALXN  [accuracy score]    : 0.8449
+ALXN  [mean squared error]: 2.1076
+
+AMAT  [accuracy score]    : 0.9710
+AMAT  [mean squared error]: 0.7136
+
+AMD   [accuracy score]    : 0.9510
+AMD   [mean squared error]: 0.8505
+
+AME   [accuracy score]    : 0.9107
+AME   [mean squared error]: 0.8060
+
+AMG   [accuracy score]    : 0.9726
+AMG   [mean squared error]: 1.7957
+
+AMGN  [accuracy score]    : 0.7757
+AMGN  [mean squared error]: 2.0189
+
+AMP   [accuracy score]    : 0.8981
+AMP   [mean squared error]: 1.7372
+
+AMT   [accuracy score]    : 0.8481
+AMT   [mean squared error]: 1.4182
+
+AMZN  [accuracy score]    : 0.8723
+AMZN  [mean squared error]: 30.9168
+
+ANDV  [accuracy score]    : 0.9124
+ANDV  [mean squared error]: 1.7401
+
+ANSS  [accuracy score]    : 0.9304
+ANSS  [mean squared error]: 2.3293
+
+ANTM  [accuracy score]    : 0.9021
+ANTM  [mean squared error]: 2.5399
+
+AON   [accuracy score]    : 0.9266
+AON   [mean squared error]: 1.4170
+
+AOS   [accuracy score]    : 0.9685
+AOS   [mean squared error]: 0.7740
+
+APA   [accuracy score]    : 0.9191
+APA   [mean squared error]: 0.8039
+
+APC   [accuracy score]    : 0.9391
+APC   [mean squared error]: 1.0294
+
+APD   [accuracy score]    : 0.8920
+APD   [mean squared error]: 1.3890
+
+APH   [accuracy score]    : 0.8957
+APH   [mean squared error]: 0.8805
+
+APTV  [accuracy score]    : 0.9613
+APTV  [mean squared error]: 1.3597
+
+ARE   [accuracy score]    : 0.5487
+ARE   [mean squared error]: 1.2329
+
+ARNC  [accuracy score]    : 0.8915
+ARNC  [mean squared error]: 0.3501
+
+ATVI  [accuracy score]    : 0.9068
+ATVI  [mean squared error]: 1.4626
+
+AVB   [accuracy score]    : 0.8036
+AVB   [mean squared error]: 1.5728
+
+AVGO  [accuracy score]    : 0.8088
+AVGO  [mean squared error]: 4.0064
+
+AVY   [accuracy score]    : 0.9286
+AVY   [mean squared error]: 1.2618
+
+AWK   [accuracy score]    : 0.3763
+AWK   [mean squared error]: 0.8075
+
+AXP   [accuracy score]    : 0.8705
+AXP   [mean squared error]: 0.9650
+
+AYI   [accuracy score]    : 0.9125
+AYI   [mean squared error]: 2.4512
+
+AZO   [accuracy score]    : 0.9021
+AZO   [mean squared error]: 8.0662
+
